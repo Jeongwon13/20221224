@@ -28,7 +28,7 @@ public class Main {
 		System.out.println("사용자가 입력한 정수는 " + b + "이고," );
 		System.out.println("정수 " + c + "로 나눈 결과는 " + result + "입니다." );
 		}
-
+ 
 		a.close();
 		System.out.println("=====================================");
 		/*
